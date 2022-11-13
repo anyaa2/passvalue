@@ -1,0 +1,2 @@
+mypack.CheckerBean
+mnypack.CheckerBean
